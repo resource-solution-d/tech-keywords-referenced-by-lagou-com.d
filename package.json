@@ -1,0 +1,23 @@
+{
+  "name": "tech-keywords-referenced-by-lagou-com.d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resource-solution-d/tech-keywords-referenced-by-lagou-com.d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resource-solution-d/tech-keywords-referenced-by-lagou-com.d/issues"
+  },
+  "homepage": "https://github.com/resource-solution-d/tech-keywords-referenced-by-lagou-com.d#readme",
+  "dependencies": {
+    "shelljs": "^0.7.8"
+  }
+}

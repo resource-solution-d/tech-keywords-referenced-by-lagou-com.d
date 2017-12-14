@@ -16,6 +16,7 @@ ls('*.js').forEach(function (file) {
 });
 cd('..');
 
+//local commit a git version, just use nodejs
 if(exec('git commit -am "Auto-commit"').code !== 0){
     echo('Error: Git commit failed');
     exit(0);
