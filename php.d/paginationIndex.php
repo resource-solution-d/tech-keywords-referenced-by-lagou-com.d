@@ -1,0 +1,2 @@
+<?php
+$paginationIndex = 1;
