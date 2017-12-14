@@ -1,8 +1,9 @@
 require('shelljs/global');
 const fs = require('fs');
-const checkTypeByObject = function(){
-    return Object.prototype.toString.call(arguments[0]);
-};
+const myUtil = require('./myUtils')
+const {
+    checkTypeByObject,
+} = myUtil;
 const miniDependencedOsCmd = [
     'curl'
 ];
