@@ -1,6 +1,4 @@
-const {
-    ensureCorrectTypeByObject,
-} = myUtil;
+const fs = require('fs');
 const allJsonStr = fs.readFileSync('../php.d/all.json', 'utf-8');
 const allAry = JSON.parse(allJsonStr);
 // ensureCorrectTypeByObject(allAry, "[object Array]");
@@ -9,6 +7,7 @@ const allPagesObj = allAry[0];
 console.log(JSON.stringify(allPagesObj));
 
 const {
+    ensureCorrectTypeByObject,
     resolveTruePromiseFn
 } = require('./myUtils');
 
@@ -19,14 +18,6 @@ const {
 const {
     getingPageContent
 } = require('./getingPageContent')
-
-
-// const {
-//     ensureCorrectTypeByObject,
-// } = require('./myUtils');
-// ensureCorrectTypeByObject(allPages, "[object Array]", function (testBoll) {
-//     console.log(testBoll);
-// });
 
 const resultObjAry = allPagesObj.content.positionResult.result;
 const pidAry = resultObjAry.map(function (result) {
@@ -46,7 +37,7 @@ function countKeywordsFromPagination(wordsCountObj) {
         if (count < pidAry.length) {
             const htmlStrPromise = getingPageContent(pidAry[count]);
             htmlStrPromise.then(function (htmlStr) {
-                countAlphabetsFromHtmlTextFn(wordsCountObj, htmlPath)
+                countAlphabetsFromHtmlTextFn(wordsCountObj, htmlStr)
             });
             count++;
         } else {
