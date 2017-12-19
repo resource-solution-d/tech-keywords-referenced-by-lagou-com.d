@@ -1,10 +1,4 @@
 const fs = require('fs');
-const allJsonStr = fs.readFileSync('../php.d/all.json', 'utf-8');
-const allAry = JSON.parse(allJsonStr);
-// ensureCorrectTypeByObject(allAry, "[object Array]");
-
-const allPagesObj = allAry[0];
-console.log(JSON.stringify(allPagesObj));
 
 const {
     ensureCorrectTypeByObject,
@@ -17,22 +11,29 @@ const {
 
 const {
     getingPageContent
-} = require('./getingPageContent')
+} = require('./getingPageContent');
 
-const resultObjAry = allPagesObj.content.positionResult.result;
-const pidAry = resultObjAry.map(function (result) {
-    return result.positionId;
-});
+const pidWatchAry = [];
 
-// throw JSON.stringify(pidAry);
+function countKeywordsFromPagination(wordsCountObj, allJsonStr, pidWatchAry) {
+    const allAry = JSON.parse(allJsonStr);
+// ensureCorrectTypeByObject(allAry, "[object Array]");
 
-let i = 1;
-const count = resultObjAry.length;
+    const allPagesObj = allAry[0];
+// console.log(JSON.stringify(allPagesObj));
 
-function countKeywordsFromPagination(wordsCountObj) {
+    const resultObjAry = allPagesObj.content.positionResult.result;
+    const pidAry = resultObjAry.map(function (result) {
+        return result.positionId;
+    });
+    pidWatchAry.push(pidAry);
+
+    let i = 1;
+
     //为了较好模拟正常访问，这里设置一个延时, 优化阶段再调整
     let count = 0;
     let timer;
+
     function delayDownHtml() {
         if (count < pidAry.length) {
             const htmlStrPromise = getingPageContent(pidAry[count]);
@@ -44,8 +45,9 @@ function countKeywordsFromPagination(wordsCountObj) {
             clearTimeout(timer);
         }
     }
+
     delayDownHtml();
-    timer = setInterval(delayDownHtml, 10000);
+    timer = setInterval(delayDownHtml, 10000); //10000毫秒下一个职位页
 }
 
 module.exports = {
@@ -56,5 +58,3 @@ function test() {
     obj = module.exports.countKeywordsFromPagination({});
     console.log(JSON.stringify(obj));
 }
-
-test();
