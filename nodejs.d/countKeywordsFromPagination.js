@@ -15,7 +15,7 @@ const {
 
 const pidWatchAry = [];
 
-function countKeywordsFromPagination(wordsCountObj, allJsonStr, pidWatchAry) {
+function countKeywordsFromPagination(wordsCountObj, sortedWordsCountObjAry, allJsonStr, pidWatchAry) {
     const allAry = JSON.parse(allJsonStr);
 // ensureCorrectTypeByObject(allAry, "[object Array]");
 
@@ -38,7 +38,7 @@ function countKeywordsFromPagination(wordsCountObj, allJsonStr, pidWatchAry) {
         if (count < pidAry.length) {
             const htmlStrPromise = getingPageContent(pidAry[count]);
             htmlStrPromise.then(function (htmlStr) {
-                countAlphabetsFromHtmlTextFn(wordsCountObj, htmlStr)
+                countAlphabetsFromHtmlTextFn(wordsCountObj, sortedWordsCountObjAry, htmlStr)
             });
             count++;
         } else {

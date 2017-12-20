@@ -29,6 +29,9 @@ const ensureCorrectTypeByObject = function (subject, objectType, callback) {
 };
 
 const downPageContentByPid = function (pid, pagePath) {
+    if(!fs.existsSync('./pages') || !fs.statSync('./pages').isDirectory()){
+        fs.mkdir('./pages');
+    }
     return resolveTruePromiseFn().then(function () {
         exec(
             `curl 'https://www.lagou.com/jobs/${pid}.html' -H 'Pragma: no-cache' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language: en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4,ja;q=0.2,zh-TW;q=0.2' -H 'Upgrade-Insecure-Requests: 1' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8' -H 'Cache-Control: no-cache' -H 'Cookie:...' -H 'Connection: keep-alive' --compressed > ${pagePath}`

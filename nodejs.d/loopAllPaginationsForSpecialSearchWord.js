@@ -9,7 +9,8 @@ const {
     countKeywordsFromPagination
 } = require('./countKeywordsFromPagination');
 
-const wordsCountObj = {};
+let wordsCountObj = {};
+let sortedWordsCountObjAry = [];
 const pidWatchAry = [];
 
 function delayLoopPage0To30(wordsCountObj) {
@@ -30,7 +31,7 @@ function delayLoopPage0To30(wordsCountObj) {
                 // console.log(statInfo);
                 if (allJsonMtime === 'unstart' || allJsonMtime < statInfo.mtimeMs) {
                     const allJsonStr = fs.readFileSync('../php.d/all.json', 'utf-8');
-                    countKeywordsFromPagination(wordsCountObj, allJsonStr, pidWatchAry);
+                    countKeywordsFromPagination(wordsCountObj, sortedWordsCountObjAry, allJsonStr, pidWatchAry);
                     clearInterval(waitNewAllJsonTimer);
                 }
                 allJsonMtime = statInfo.mtimeMs;
@@ -57,7 +58,7 @@ DONE! Pagination ${count} has been handle completed!
     }
 
     delayCountAlphabetsFromPagination();
-    timer = setInterval(delayCountAlphabetsFromPagination, 60000); //1分钟开始一个分页爬取, 为了伪装地不那么像爬虫，10分钟爬一个分页, 每个分页15个招聘描述页。
+    timer = setInterval(delayCountAlphabetsFromPagination, 160000); //160秒爬取一个分页爬取, 为了伪装地不那么像爬虫，10分钟爬一个分页, 每个分页15个招聘描述页。
 }
 
 delayLoopPage0To30(wordsCountObj);

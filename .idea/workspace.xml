@@ -2,28 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8ebb931-0172-4ac1-b884-98f35717ffcb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/php.d/test-string-add-string.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/allAry.js" afterPath="$PROJECT_DIR$/nodejs.d/allAry.js" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/4.1e2b1bf492ada1a3adc6.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/8.e57659f88d03ab233663.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/analytics.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/app.1107b88b336a8fcbe5a61d204237f805.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/app.a7fb973628116422a4a5.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/clue-api.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/desktop-fiesta-helzhh5dg15x9a4i.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/desktop-fiesta-helzhh5dg15x9a4i.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/desktop-fiesta.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/getbid" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/hm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/icon.3e69d5a.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/iconfont.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/ionicons.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/logo.a7995ad.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/manifest.2a26a737783de343755c.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/meiqia.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/menu.74b9add.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/next.54d8a35.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/prev.87ad47e.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/vds.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/1.2.程序员职业小白书.如何规划和经营你的职业 - Easy - 掘金小册_files/vendor.3137ff357e9f91f66d41.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/nodejs.d/countAlphabetsFromHtmlText.js" afterPath="$PROJECT_DIR$/nodejs.d/countAlphabetsFromHtmlText.js" />
       <change beforePath="$PROJECT_DIR$/nodejs.d/countKeywordsFromPagination.js" afterPath="$PROJECT_DIR$/nodejs.d/countKeywordsFromPagination.js" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/countKeyworkUntilLastPageTotal.js" afterPath="$PROJECT_DIR$/nodejs.d/countKeywordsUntilLastPageTotal.js" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/getingPageContent.js" afterPath="$PROJECT_DIR$/nodejs.d/getingPageContent.js" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3532888.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3581437.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3602041.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3615075.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3625759.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3661439.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3683804.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3690390.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3698718.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3726214.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3730217.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3763671.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3783829.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3941486.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nodejs.d/pages/3942525.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/nodejs.d/loopAllPaginationsForSpecialSearchWord.js" afterPath="$PROJECT_DIR$/nodejs.d/loopAllPaginationsForSpecialSearchWord.js" />
+      <change beforePath="$PROJECT_DIR$/nodejs.d/myUtils.js" afterPath="$PROJECT_DIR$/nodejs.d/myUtils.js" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change beforePath="$PROJECT_DIR$/php.d/all.json" afterPath="$PROJECT_DIR$/php.d/all.json" />
       <change beforePath="$PROJECT_DIR$/php.d/paginationIndex.php" afterPath="$PROJECT_DIR$/php.d/paginationIndex.php" />
       <change beforePath="$PROJECT_DIR$/php.d/the-json.php" afterPath="$PROJECT_DIR$/php.d/the-json.php" />
@@ -40,37 +48,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="225">
-      <file leaf-file-name="3698718.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3698718.html">
+      <file leaf-file-name="loopAllPaginationsForSpecialSearchWord.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodejs.d/loopAllPaginationsForSpecialSearchWord.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="50" column="15" lean-forward="false" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phpinfo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php.d/phpinfo.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1513708398617" expanded="true" signature="135:225" ph="..." />
-                <marker date="1513708398617" expanded="true" signature="135:233" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3683804.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3683804.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <marker date="1513708384053" expanded="true" signature="135:225" ph="..." />
-                <marker date="1513708384053" expanded="true" signature="135:233" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getingPageContent.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nodejs.d/getingPageContent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -79,48 +71,58 @@
       <file leaf-file-name="countAlphabetsFromHtmlText.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nodejs.d/countAlphabetsFromHtmlText.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myUtils.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nodejs.d/myUtils.js">
+      <file leaf-file-name="sortedWordsCountObjAry.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodejs.d/sortedWordsCountObjAry.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="33" column="571" lean-forward="false" selection-start-line="33" selection-start-column="571" selection-end-line="33" selection-end-column="571" />
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="countKeywordsFromPagination.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nodejs.d/countKeywordsFromPagination.js">
+      <file leaf-file-name="3851314.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3851314.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nodejs.d/all.json">
+      <file leaf-file-name="3879275.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3879275.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="0" column="27704" lean-forward="false" selection-start-line="0" selection-start-column="27704" selection-end-line="0" selection-end-column="27704" />
+            <state relative-caret-position="180">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="allAry.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nodejs.d/allAry.js">
+      <file leaf-file-name="the-json.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php.d/the-json.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="30" column="11" lean-forward="false" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paginationIndex.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php.d/paginationIndex.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -172,7 +174,6 @@
         <option value="$PROJECT_DIR$/nodejs.d/tmp.json" />
         <option value="$PROJECT_DIR$/nodejs.d/test-getPageContent.js" />
         <option value="$PROJECT_DIR$/nodejs.d/getPageContentPromise.js" />
-        <option value="$PROJECT_DIR$/nodejs.d/myUtils.js" />
         <option value="$PROJECT_DIR$/nodejs.d/downPages.js" />
         <option value="$PROJECT_DIR$/nodejs.d/countAlphabetFromHtml.js" />
         <option value="$PROJECT_DIR$/nodejs.d/countAlphabetsFromHtml.js" />
@@ -185,11 +186,14 @@
         <option value="$PROJECT_DIR$/php.d/paginationIndex.php" />
         <option value="$PROJECT_DIR$/php.d/all.json" />
         <option value="$PROJECT_DIR$/php.d/test-string-add-string.php" />
-        <option value="$PROJECT_DIR$/php.d/the-json.php" />
-        <option value="$PROJECT_DIR$/nodejs.d/countAlphabetsFromHtmlText.js" />
         <option value="$PROJECT_DIR$/nodejs.d/all.json" />
-        <option value="$PROJECT_DIR$/nodejs.d/countKeywordsFromPagination.js" />
         <option value="$PROJECT_DIR$/nodejs.d/allAry.js" />
+        <option value="$PROJECT_DIR$/nodejs.d/countKeywordsFromPagination.js" />
+        <option value="$PROJECT_DIR$/nodejs.d/loopAllPaginationsForSpecialSearchWord.js" />
+        <option value="$PROJECT_DIR$/nodejs.d/countAlphabetsFromHtmlText.js" />
+        <option value="$PROJECT_DIR$/php.d/the-json.php" />
+        <option value="$PROJECT_DIR$/nodejs.d/myUtils.js" />
+        <option value="$PROJECT_DIR$/nodejs.d/sortedWordsCountObjAry.json" />
       </list>
     </option>
   </component>
@@ -228,6 +232,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,8 +261,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,6 +270,7 @@
     <property name="settings.editor.splitter.proportion" value="0.27109975" />
     <property name="javascript.nodejs.core.library.configured.version" value="9.2.0" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="w&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -287,7 +292,7 @@
   <component name="RunManager" selected="Node.js.countKeyworkUntilLastPageTotal.js">
     <configuration name="countAlphabetsFromHtml.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/nodejs.d/countAlphabetsFromHtmlText.js" working-dir="$PROJECT_DIR$/nodejs.d" />
     <configuration name="countKeywordsFromPagination.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="countKeywordsFromPagination.js" working-dir="$PROJECT_DIR$/nodejs.d" />
-    <configuration name="countKeyworkUntilLastPageTotal.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/nodejs.d/countKeywordsUntilLastPageTotal.js" working-dir="$PROJECT_DIR$/nodejs.d" />
+    <configuration name="countKeyworkUntilLastPageTotal.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/nodejs.d/try-to-get-total-pagination-but-unsuccessed-countKeywordsUntilLastPageTotal.js" working-dir="$PROJECT_DIR$/nodejs.d" />
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Node.js.countAlphabetsFromHtml.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.countKeywordsFromPagination.js" />
@@ -319,43 +324,33 @@
       <workItem from="1513251184441" duration="8763000" />
       <workItem from="1513264241256" duration="15030000" />
       <workItem from="1513310396767" duration="829000" />
+      <workItem from="1513734189241" duration="4727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52196000" />
+    <option name="totallyTimeSpent" value="66981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-3" width="1368" height="750" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21037038" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22814815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.97314376" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5876777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.892575" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.97314376" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8056872" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22814815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -388,168 +383,174 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3532888.html">
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3661439.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3581437.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3532888.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3602041.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3615075.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3625759.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3730217.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3783829.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3690390.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3763671.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3726214.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3698718.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3683804.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/all.json" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3941486.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3942525.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3960613.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3961052.html" />
+    <entry file="file://$PROJECT_DIR$/nodejs.d/try-to-get-total-pagination-but-unsuccessed-countKeywordsUntilLastPageTotal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/countAlphabetsFromHtmlText.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/1512489.html" />
     <entry file="file://$PROJECT_DIR$/nodejs.d/countKeywordsFromPagination.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="44" column="26" lean-forward="false" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        <state relative-caret-position="12">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/the-json.js">
+    <entry file="file://$PROJECT_DIR$/nodejs.d/getingPageContent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        <state relative-caret-position="48">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nodejs.d/myUtils.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="180">
+          <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/allAry.js">
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3447610.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3654112.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3690204.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3733453.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3748915.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/countKeywordsFromPagination.js">
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3780062.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php.d/downPage.php">
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3798958.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="26" column="438" lean-forward="false" selection-start-line="26" selection-start-column="438" selection-end-line="26" selection-end-column="438" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/tmp.json">
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3812669.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2220">
-          <caret line="185" column="30" lean-forward="false" selection-start-line="185" selection-start-column="30" selection-end-line="185" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php.d/the-json.php">
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3814148.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3879543.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3891665.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3914794.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3927365.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3953562.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3655070.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/php.d/all.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bash.d/get-json-by-page.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="3" column="979" lean-forward="false" selection-start-line="3" selection-start-column="979" selection-end-line="3" selection-end-column="979" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/getingPageContent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bash.d/example.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/shelljs-example/global-model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/shelljs-example/demo1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bash.d/get-json-by-page.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="3" column="979" lean-forward="false" selection-start-line="3" selection-start-column="979" selection-end-line="3" selection-end-column="979" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/undefined.html" />
-    <entry file="file://$PROJECT_DIR$/nodejs.d/tmp.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="1065" column="0" lean-forward="false" selection-start-line="1065" selection-start-column="0" selection-end-line="1065" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/loopPaginationsFollowSpecialLenth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/the-json.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/cheerioObj.js" />
-    <entry file="file://$PROJECT_DIR$/nodejs.d/countAlphabetsViaLoopPaginations.js" />
-    <entry file="file://$PROJECT_DIR$/php.d/downPage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php.d/phpinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="537">
+          <caret line="0" column="27238" lean-forward="false" selection-start-line="0" selection-start-column="27238" selection-end-line="0" selection-end-column="27238" />
           <folding />
         </state>
       </provider>
@@ -562,220 +563,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php.d/test-string-add-string.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php.d/the-json.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3661439.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3581437.html">
+    <entry file="file://$PROJECT_DIR$/nodejs.d/loopAllPaginationsForSpecialSearchWord.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="1332" column="0" lean-forward="false" selection-start-line="1332" selection-start-column="0" selection-end-line="1332" selection-end-column="0" />
+        <state relative-caret-position="384">
+          <caret line="50" column="15" lean-forward="false" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3532888.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3602041.html">
+    <entry file="file://$PROJECT_DIR$/php.d/phpinfo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3615075.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3625759.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3730217.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1513708380333" expanded="true" signature="135:225" ph="..." />
-            <marker date="1513708380333" expanded="true" signature="135:233" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3783829.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1513708372809" expanded="true" signature="135:225" ph="..." />
-            <marker date="1513708372809" expanded="true" signature="135:233" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3941486.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1513708369073" expanded="true" signature="135:225" ph="..." />
-            <marker date="1513708369073" expanded="true" signature="135:233" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3942525.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding>
-            <marker date="1513708376621" expanded="true" signature="135:225" ph="..." />
-            <marker date="1513708376621" expanded="true" signature="135:233" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3690390.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3763671.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3726214.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3698718.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1513708398617" expanded="true" signature="135:225" ph="..." />
-            <marker date="1513708398617" expanded="true" signature="135:233" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3683804.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <marker date="1513708384053" expanded="true" signature="135:225" ph="..." />
-            <marker date="1513708384053" expanded="true" signature="135:233" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/countKeywordsUntilLastPageTotal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/myUtils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="33" column="571" lean-forward="false" selection-start-line="33" selection-start-column="571" selection-end-line="33" selection-end-column="571" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/getingPageContent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nodejs.d/countAlphabetsFromHtmlText.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php.d/all.json">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/all.json">
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/2563554.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="0" column="27704" lean-forward="false" selection-start-line="0" selection-start-column="27704" selection-end-line="0" selection-end-column="27704" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/countKeywordsFromPagination.js">
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/2853668.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.d/allAry.js">
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/2861607.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="30" column="11" lean-forward="false" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/2968563.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/sortedWordsCountObjAry.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3851314.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.d/pages/3879275.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
